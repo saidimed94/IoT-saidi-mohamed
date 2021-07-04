@@ -1,0 +1,15 @@
+{
+  "name": "ble-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mo Saidi",
+  "license": "ISC",
+  "dependencies": {
+    "node-bluetooth": "^1.2.6",
+    "node-fetch": "^2.6.1"
+  }
+}
